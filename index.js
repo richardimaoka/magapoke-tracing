@@ -22,7 +22,7 @@ const typeDefs = gql`
 
 const books = [
   {
-    title: "The Awakening",
+    title: "The Awaksssening",
     author: "Kate Chopin",
   },
   {
