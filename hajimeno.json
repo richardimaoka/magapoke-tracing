@@ -2,9 +2,22 @@
   "comicTitle": "はじめの一歩",
   "pageTitle": "【Round 1】The First Step",
   "publishDate": "2021年07月20日",
+  "summary": {
+    "thumbnail": "https://",
+    "title": "https://",
+    "author": "森川ジョージ",
+    "description": "「強いって、一体どんな気持ちですか？」ドジでいじめられっ子の高校生・幕之内一歩。ボクサー・鷹村守との出会いは、一歩の拳に潜むダイナマイトパンチを呼び起こした！プロボクサーへの夢を抱き、鷹村と同じ鴨川ジムの門を叩いた一歩の、“強さ”を見つけるための挑戦が今始まる!!"
+  },
   "pages": [
     {
       "image_url": "https://xxx"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "【Round 1】The First Step",
+      "points": 80,
+      "publishDate": "2021/09/08"
     }
   ]
 }
